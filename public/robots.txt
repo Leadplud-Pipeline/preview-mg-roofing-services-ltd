@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /thank-you
+Disallow: /404
+Disallow: /book
+Disallow: /free-inspection
+Disallow: /thank-you-inspection
+Disallow: /get-your-free-inspection
+
+Sitemap: https://www.lakesideroofinggroup.co.uk/sitemap.xml
